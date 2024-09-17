@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(249, 225, 195);
+}
+input:hover{
+    background-color: #dedbdb;
+}
+textarea:hover{
+    background-color: #dedbdb;
+}
+button{
+    background-color: brown;
+    color:beige;
+    width: 25em;
+    height: 5em;
+}
+button:hover {
+    background-color:red;
+    color:beige;
+}
