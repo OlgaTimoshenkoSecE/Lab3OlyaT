@@ -1,3 +1,43 @@
+body{
+    background-color: rgb(249, 225, 195);
+}
 section{
     display:flex;
+    margin-top:1em;
+    border: 0.3em solid;
+    border-color: brown;
+    flex-direction:column;
+    margin-bottom:1em;
+    padding:1em;
+    background-color:rgb(248, 217, 177);
+    height:50%;
+}
+article{
+    height: 20%;
+    border:0.2em solid;
+    border-color: brown;
+    padding:1em;
+    margin:0.2em;
+    background-color: rgb(249, 225, 195);
+}
+article:hover{
+    background-color: brown;
+    color:antiquewhite;
+}
+aside{
+    border:0.3em solid;
+    border-color: brown;
+    background-color:rgb(248, 217, 177);
+    text-align:left;
+    padding-left:0.3em;
+}
+nav{
+    background-color: rgb(248, 217, 177);
+    border:0.3em solid;
+    border-color: brown;
+    padding-left:1em;
+}
+footer{
+    padding-top:1em;
+    text-align:end;
 }
