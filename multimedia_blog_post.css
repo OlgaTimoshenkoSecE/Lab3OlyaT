@@ -1,3 +1,26 @@
 body{
     background-color:rgb(249, 225, 195);
 }
+main{
+    margin-left:1em;
+    margin-right:1em;
+}
+section{
+    border: 0.3em solid;
+    border-color: brown;
+    margin: 1em;
+    padding: 1em;
+    background-color:antiquewhite;
+}
+button{
+    background-color: brown;
+    color:antiquewhite;
+    width:10em;
+    height:5em;
+}
+button:hover{
+    background-color: red;
+}
+footer{
+    margin-top:2em;
+}
