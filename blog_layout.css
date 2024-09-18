@@ -31,6 +31,10 @@ aside{
     text-align:left;
     padding-left:0.3em;
 }
+aside:hover{
+    background-color: red;
+    color:antiquewhite;
+}
 nav{
     background-color: rgb(248, 217, 177);
     border:0.3em solid;
